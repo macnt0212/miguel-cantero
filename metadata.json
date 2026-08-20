@@ -1,0 +1,6 @@
+{
+  "name": "M&C Informática - Soluciones Tecnológicas",
+  "description": "Sitio web corporativo y plataforma integral de servicios tecnológicos con Chatbot IA (TecnoBot M&C) para responder solicitudes, cotizaciones y seguimiento de reparaciones: Redes, Cámaras de Seguridad, Automatización, Impresoras, Laboratorio de PC y Ventas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
